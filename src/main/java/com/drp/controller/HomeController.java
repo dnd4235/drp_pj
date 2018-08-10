@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import com.drp.service.TestService;
 
 /**
- * Handles requests for the application home page. Home
+ * Handles requests for the application home page. Home2
  */
 @Controller
 public class HomeController {
